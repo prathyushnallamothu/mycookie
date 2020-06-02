@@ -1,4 +1,4 @@
-package mycookie
+package cookies
 
 import "net/http"
 
